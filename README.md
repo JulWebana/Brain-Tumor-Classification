@@ -4,6 +4,6 @@ L'une des applications du Deep Learning permet de détecter les tumeurs cérébr
 
 Les images sont réparties en deux dossiers, oui et non, contenant chacun des images avec et sans tumeur cérébrale respectivement. Il y a un total de 253 images.   
 Notre approche pour construire le classificateur sera discuté en 03 étapes :  
-  Dans un 1er temps, nous allons effectuer une analyse exploratoire des données.  
-  Ensuite nous allons construire un modèle CNN. 
-  Et enfin nous allons entraîner et évaluer notre modèle sur l'ensemble des données.
+  * Dans un 1er temps, nous allons effectuer une analyse exploratoire des données.  
+  * Ensuite nous allons construire un modèle CNN. 
+  * Et enfin nous allons entraîner et évaluer notre modèle sur l'ensemble des données.
